@@ -1,0 +1,18 @@
+ad_gsb_homepage:
+    pattern:  /
+    defaults: { _controller:ADGsbBundle:Default:index }
+ad_gsp_entreprise:
+    pattern: /entreprise
+    defaults: { _controller:ADGsbBundle:presentation:entreprise }
+ad_gsp_activite:
+    pattern: /activite
+    defaults: { _controller:ADGsbBundle:presentation:activite }
+ad_gsb_description:
+    pattern:  /
+    defaults: { _controller:ADGsbBundle:si:description }
+ad_gsp_entreprise:
+    pattern: /entreprise
+    defaults: { _controller:ADGsbBundle:presentation:entreprise }
+ad_gsp_activite:
+    pattern: /activite
+    defaults: { _controller:ADGsbBundle:presentation:activite }

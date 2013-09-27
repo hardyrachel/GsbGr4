@@ -1,0 +1,6 @@
+ad_mon_premier_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ADMonPremierBundle:Default:index }
+ADMonPremierBundle_accueil:
+  pattern: /
+  defaults: { _controller: ADMonPremierBundle:Default:index }

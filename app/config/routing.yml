@@ -1,0 +1,8 @@
+ad_gsb:
+    resource: "@ADGsbBundle/Resources/config/routing.yml"
+    prefix:   /Gsb
+
+ad_mon_premier:
+    resource: "@ADMonPremierBundle/Resources/config/routing.yml"
+    prefix:   /AD
+

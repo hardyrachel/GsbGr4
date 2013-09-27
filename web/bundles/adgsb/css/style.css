@@ -1,0 +1,41 @@
+header{
+    background-color: #F29101;
+    background-position: top center;
+    width: 1655px;
+    height: 100px;
+}
+nav{
+    background-color: #CE42A9;
+    background-position:left;
+    position: absolute;
+    width: 300px;
+    height: 800px;
+    font-size: 1.4em;
+}
+h1{
+    text-align: center;
+}
+h3{
+   text-align: center;
+}
+section{
+    background-color: #E6E02E;
+    background-position: right;
+    width: 1355px;
+    height: 800px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    position: absolute;
+}
+footer{
+    background-color: #B5B4AA;
+    background-position: bottom;
+    width: 1600px;
+    height: 54px;
+    position: absolute;
+    margin-top: 800px;
+}
+img{
+    position: absolute;
+    margin-right: 500px;
+}
