@@ -28,10 +28,10 @@ class __TwigTemplate_52fa520a6fece350ae90b1870ca62547 extends Twig_Template
         // line 6
         echo twig_escape_filter($this->env, $this->env->getExtension('assets')->getAssetUrl("bundles/ADGsb/css/style.css"), "html", null, true);
         echo " \"type=\"text/css\" media=\"all\" />
-        <h1>Le site GSB</h1>
+        <h1>LE LABORATOIRE PHARMACEUTIQUE GSB : Galaxy Swiss-Bourdin</h1>
     </header>
     <nav>
-        <h3>LE MENU :</h3>
+        <h3> MENU :</h3>
         <h5>Présentation</h5>
         <li><a href=\"";
         // line 12
@@ -43,14 +43,14 @@ class __TwigTemplate_52fa520a6fece350ae90b1870ca62547 extends Twig_Template
         echo "\">L'Entreprise</a></li>
         <h5>Le SI</h5>
         <li><a href=\"\">Description</a></li>
-        <li><a href=\"\">La gestion: </a></li>
-        <li><a href=\"\">L'équipement :</a></li>
+        <li><a href=\"\">La gestion</a></li>
+        <li><a href=\"\">L'équipement</a></li>
         <h5>Le réseau</h5>
         <li><a href=\"\">Répartition</a></li>
         <li><a href=\"\">Segmentation</a></li>
     </nav>
     <section>
-        <h1>TOTO</h1>
+        <h1>contenu</h1>
     </section>
     <footer>
         <p>copyright 2013-2014</p>
